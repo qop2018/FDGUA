@@ -1,0 +1,1034 @@
+target:6
+epoch=0,continuousFlip=215.8264,train fooling rate=0.8571
+epoch=0,anchorsNum=6.0000,val fooling rate=0.8860
+epoch=0,anchorsNum=6.0,train fooling rate=0.7714
+[ 3  0  0  0  0  0 17]
+[ 0  3  0  0  0  0 17]
+[ 0  0  2  0  0  0 18]
+[ 0  0  0  1  0  0 19]
+[ 0  0  0  0  3  0 17]
+[ 0  0  0  0  0  0 20]
+[ 0  0  0  0  0  0 20]
+
+epoch=0,anchorsNum=6.0,test fooling rate=0.8860
+[  2   0   0   0   0   0 137]
+[ 0  5  0  0  0  0 96]
+[  0   0   9   0   0   0 136]
+[  0   0   0   9   0   0 266]
+[  0   0   0   0  10   0 156]
+[ 0  0  0  0  0  1 95]
+[ 0  0  0  0  0  0 78]
+
+epoch=1,continuousFlip=71.4150,train fooling rate=0.8571
+epoch=1,anchorsNum=6.0000,val fooling rate=0.8860
+epoch=1,anchorsNum=6.0,train fooling rate=0.7714
+[ 3  0  0  0  0  0 17]
+[ 0  3  0  0  0  0 17]
+[ 0  0  2  0  0  0 18]
+[ 0  0  0  1  0  0 19]
+[ 0  0  0  0  3  0 17]
+[ 0  0  0  0  0  0 20]
+[ 0  0  0  0  0  0 20]
+
+epoch=1,anchorsNum=6.0,test fooling rate=0.8860
+[  3   0   0   0   0   0 136]
+[ 0  3  0  0  0  0 98]
+[  0   0   9   0   0   0 136]
+[  0   0   0   9   0   0 266]
+[  0   0   0   0  11   0 155]
+[ 0  0  0  0  0  1 95]
+[ 0  0  0  0  0  0 78]
+
+epoch=2,continuousFlip=184.8159,train fooling rate=0.7929
+epoch=2,anchorsNum=6.0000,val fooling rate=0.8860
+epoch=2,anchorsNum=6.0,train fooling rate=0.7714
+[ 3  0  0  0  0  0 17]
+[ 0  3  0  0  0  0 17]
+[ 0  0  2  0  0  0 18]
+[ 0  0  0  1  0  0 19]
+[ 0  0  0  0  3  0 17]
+[ 0  0  0  0  0  0 20]
+[ 0  0  0  0  0  0 20]
+
+epoch=2,anchorsNum=6.0,test fooling rate=0.8860
+[  3   0   0   0   0   0 136]
+[ 0  3  0  0  0  0 98]
+[  0   0   9   0   0   0 136]
+[  0   0   0   9   0   0 266]
+[  0   0   0   0  11   0 155]
+[ 0  0  0  0  0  1 95]
+[ 0  0  0  0  0  0 78]
+
+epoch=3,continuousFlip=245.9529,train fooling rate=0.8571
+epoch=3,anchorsNum=6.0000,val fooling rate=0.8880
+epoch=3,anchorsNum=6.0,train fooling rate=0.7500
+[ 4  0  0  0  0  0 16]
+[ 0  6  0  0  0  0 14]
+[ 0  0  1  0  0  0 19]
+[ 0  0  0  1  0  0 19]
+[ 0  0  0  0  3  0 17]
+[ 0  0  0  0  0  0 20]
+[ 0  0  0  0  0  0 20]
+
+epoch=3,anchorsNum=6.0,test fooling rate=0.8880
+[  2   0   0   0   0   0 137]
+[ 0  6  0  0  0  0 95]
+[  0   0   6   0   0   0 139]
+[  0   0   0   9   0   0 266]
+[  0   0   0   0  10   0 156]
+[ 0  0  0  0  0  1 95]
+[ 0  0  0  0  0  0 78]
+
+epoch=4,continuousFlip=133.0873,train fooling rate=0.8571
+epoch=4,anchorsNum=6.0000,val fooling rate=0.8860
+epoch=4,anchorsNum=6.0,train fooling rate=0.7714
+[ 3  0  0  0  0  0 17]
+[ 0  3  0  0  0  0 17]
+[ 0  0  2  0  0  0 18]
+[ 0  0  0  1  0  0 19]
+[ 0  0  0  0  3  0 17]
+[ 0  0  0  0  0  0 20]
+[ 0  0  0  0  0  0 20]
+
+epoch=4,anchorsNum=6.0,test fooling rate=0.8860
+[  3   0   0   0   0   0 136]
+[ 0  3  0  0  0  0 98]
+[  0   0   9   0   0   0 136]
+[  0   0   0   9   0   0 266]
+[  0   0   0   0  11   0 155]
+[ 0  0  0  0  0  1 95]
+[ 0  0  0  0  0  0 78]
+
+target:6
+simple dp fail ! try again !
+epoch=0,continuousFlip=143.6988,train fooling rate=0.8357
+epoch=0,anchorsNum=6.0000,val fooling rate=0.8100
+epoch=0,anchorsNum=6.0,train fooling rate=0.6000
+[ 6  0  0  0  0  0 14]
+[ 0 10  0  0  0  0 10]
+[ 0  0  4  0  0  0 16]
+[ 0  0  0  6  0  0 14]
+[ 0  0  0  0  8  0 12]
+[ 0  0  0  0  0  2 18]
+[ 0  0  0  0  0  0 20]
+
+epoch=0,anchorsNum=6.0,test fooling rate=0.8300
+[ 11   0   0   0   0   0 139]
+[ 0 12  0  0  0  0 88]
+[  0   0  28   0   0   0 114]
+[  0   0   0  39   0   0 251]
+[  0   0   0   3  21   0 132]
+[  0   0   0   0   0   7 103]
+[ 0  0  0  0  0  0 52]
+
+epoch=1,continuousFlip=85.0507,train fooling rate=0.8357
+epoch=1,anchorsNum=6.0000,val fooling rate=0.7980
+epoch=1,anchorsNum=6.0,train fooling rate=0.5786
+[ 6  0  0  0  0  0 14]
+[ 0 11  0  0  0  0  9]
+[ 0  0  4  0  0  0 16]
+[ 0  0  0  7  0  0 13]
+[ 0  0  0  0  9  0 11]
+[ 0  0  0  0  0  2 18]
+[ 0  0  0  0  0  0 20]
+
+epoch=1,anchorsNum=6.0,test fooling rate=0.8100
+[ 15   0   0   0   0   0 135]
+[ 0 14  0  0  0  0 86]
+[  0   0  28   0   0   0 114]
+[  0   0   0  49   0   0 241]
+[  0   0   0   3  25   0 128]
+[  0   0   0   0   0   7 103]
+[ 0  0  0  0  0  0 52]
+
+simple dp fail ! try again !
+simple dp fail ! try again !
+epoch=2,continuousFlip=182.8141,train fooling rate=0.7786
+epoch=2,anchorsNum=6.0000,val fooling rate=0.8060
+epoch=2,anchorsNum=6.0,train fooling rate=0.5929
+[ 6  0  0  0  0  0 14]
+[ 0 10  0  0  0  0 10]
+[ 0  0  4  0  0  0 16]
+[ 0  0  0  6  0  0 14]
+[ 0  0  0  0  9  0 11]
+[ 0  0  0  0  0  2 18]
+[ 0  0  0  0  0  0 20]
+
+epoch=2,anchorsNum=6.0,test fooling rate=0.8240
+[ 12   0   0   0   0   0 138]
+[ 0 12  0  0  0  0 88]
+[  0   0  27   0   0   0 115]
+[  0   0   0  44   0   0 246]
+[  0   0   0   3  22   0 131]
+[  0   0   0   0   0   7 103]
+[ 0  0  0  0  0  0 52]
+
+simple dp fail ! try again !
+epoch=3,continuousFlip=172.4971,train fooling rate=0.8357
+epoch=3,anchorsNum=6.0000,val fooling rate=0.8060
+epoch=3,anchorsNum=6.0,train fooling rate=0.5929
+[ 6  0  0  0  0  0 14]
+[ 0 10  0  0  0  0 10]
+[ 0  0  4  0  0  0 16]
+[ 0  0  0  6  0  0 14]
+[ 0  0  0  0  9  0 11]
+[ 0  0  0  0  0  2 18]
+[ 0  0  0  0  0  0 20]
+
+epoch=3,anchorsNum=6.0,test fooling rate=0.8240
+[ 11   0   0   0   0   0 139]
+[ 0 12  0  0  0  0 88]
+[  0   0  27   0   0   0 115]
+[  0   0   0  43   0   0 247]
+[  0   0   0   3  23   0 130]
+[  0   0   0   0   0   8 102]
+[ 0  0  0  0  0  0 52]
+
+simple dp fail ! try again !
+epoch=4,continuousFlip=129.6014,train fooling rate=0.8071
+epoch=4,anchorsNum=6.0000,val fooling rate=0.8060
+epoch=4,anchorsNum=6.0,train fooling rate=0.5929
+[ 6  0  0  0  0  0 14]
+[ 0 10  0  0  0  0 10]
+[ 0  0  4  0  0  0 16]
+[ 0  0  0  6  0  0 14]
+[ 0  0  0  0  9  0 11]
+[ 0  0  0  0  0  2 18]
+[ 0  0  0  0  0  0 20]
+
+epoch=4,anchorsNum=6.0,test fooling rate=0.8240
+[ 12   0   0   0   0   0 138]
+[ 0 12  0  0  0  0 88]
+[  0   0  27   0   0   0 115]
+[  0   0   0  44   0   0 246]
+[  0   0   0   3  22   0 131]
+[  0   0   0   0   0   7 103]
+[ 0  0  0  0  0  0 52]
+
+target:6
+epoch=0,continuousFlip=129.2295,train fooling rate=0.8429
+epoch=0,anchorsNum=6.0000,val fooling rate=0.8280
+epoch=0,anchorsNum=6.0,train fooling rate=0.6500
+[ 5  0  0  0  0  0 15]
+[ 0  9  0  0  0  0 11]
+[ 0  0  4  0  0  0 16]
+[ 0  0  0  2  0  0 18]
+[ 0  0  0  0  8  0 12]
+[ 0  0  0  0  0  1 19]
+[ 0  0  0  0  0  0 20]
+
+epoch=0,anchorsNum=6.0,test fooling rate=0.8380
+[  7   0   0   0   0   0 146]
+[ 0 11  0  0  0  0 90]
+[  0   0  29   0   0   0 115]
+[  0   0   0  19   0   0 245]
+[  0   0   0   0  16   0 157]
+[ 0  0  0  0  0  4 85]
+[ 0  0  0  0  0  0 76]
+
+epoch=1,continuousFlip=141.2851,train fooling rate=0.8357
+epoch=1,anchorsNum=6.0000,val fooling rate=0.8320
+epoch=1,anchorsNum=6.0,train fooling rate=0.6429
+[ 5  0  0  0  0  0 15]
+[ 0  9  0  0  0  0 11]
+[ 0  0  4  0  0  0 16]
+[ 0  0  0  3  0  0 17]
+[ 0  0  0  0  9  0 11]
+[ 0  0  0  0  0  0 20]
+[ 0  0  0  0  0  0 20]
+
+epoch=1,anchorsNum=6.0,test fooling rate=0.8220
+[  9   0   0   0   0   0 144]
+[ 0 10  0  0  0  0 91]
+[  0   0  28   0   0   0 116]
+[  0   0   0  28   0   0 236]
+[  0   0   0   0  25   0 148]
+[ 0  0  0  0  0  2 87]
+[ 0  0  0  0  0  0 76]
+
+epoch=2,continuousFlip=240.4260,train fooling rate=0.8357
+epoch=2,anchorsNum=6.0000,val fooling rate=0.8240
+epoch=2,anchorsNum=6.0,train fooling rate=0.6429
+[ 5  0  0  0  0  0 15]
+[ 0 10  0  0  0  0 10]
+[ 0  0  4  0  0  0 16]
+[ 0  0  0  2  0  0 18]
+[ 0  0  0  0  8  0 12]
+[ 0  0  0  0  0  1 19]
+[ 0  0  0  0  0  0 20]
+
+epoch=2,anchorsNum=6.0,test fooling rate=0.8280
+[  8   0   0   0   0   0 145]
+[ 0 12  0  0  0  0 89]
+[  0   1  27   0   0   0 116]
+[  0   0   0  23   0   0 241]
+[  0   0   0   0  21   0 152]
+[ 0  0  0  0  0  5 84]
+[ 0  0  0  0  0  0 76]
+
+simple dp fail ! try again !
+simple dp fail ! try again !
+simple dp fail ! try again !
+epoch=3,continuousFlip=91.1095,train fooling rate=0.8357
+epoch=3,anchorsNum=6.0000,val fooling rate=0.8260
+epoch=3,anchorsNum=6.0,train fooling rate=0.6143
+[ 6  0  0  0  0  0 14]
+[ 0  9  0  0  0  0 11]
+[ 0  0  4  0  0  0 16]
+[ 0  0  0  6  0  0 14]
+[ 0  0  0  0  9  0 11]
+[ 0  0  0  0  0  0 20]
+[ 0  0  0  0  0  0 20]
+
+epoch=3,anchorsNum=6.0,test fooling rate=0.8160
+[ 11   0   0   0   0   0 142]
+[ 0 11  0  0  0  0 90]
+[  0   0  28   0   0   0 116]
+[  0   0   0  31   0   0 233]
+[  0   0   0   0  24   0 149]
+[ 0  0  0  0  0  3 86]
+[ 0  0  0  0  0  0 76]
+
+epoch=4,continuousFlip=78.7448,train fooling rate=0.8357
+epoch=4,anchorsNum=6.0000,val fooling rate=0.8300
+epoch=4,anchorsNum=6.0,train fooling rate=0.6500
+[ 5  0  0  0  0  0 15]
+[ 0  9  0  0  0  0 11]
+[ 0  0  4  0  0  0 16]
+[ 0  0  0  2  0  0 18]
+[ 0  0  0  0  9  0 11]
+[ 0  0  0  0  0  0 20]
+[ 0  0  0  0  0  0 20]
+
+epoch=4,anchorsNum=6.0,test fooling rate=0.8320
+[  7   0   0   0   0   0 146]
+[ 0 11  0  0  0  0 90]
+[  0   0  28   0   0   0 116]
+[  0   0   0  23   0   0 241]
+[  0   0   0   0  20   0 153]
+[ 0  0  0  0  0  3 86]
+[ 0  0  0  0  0  0 76]
+
+target:6
+epoch=0,continuousFlip=142.2929,train fooling rate=0.8071
+epoch=0,anchorsNum=6.0000,val fooling rate=0.7660
+epoch=0,anchorsNum=6.0,train fooling rate=0.5643
+[ 6  0  0  0  0  0 14]
+[ 0 10  0  0  0  0 10]
+[ 0  0  6  0  0  0 14]
+[ 0  0  0  6  0  0 14]
+[ 0  0  0  0 11  0  9]
+[ 0  0  0  0  0  2 18]
+[ 0  0  0  0  0  0 20]
+
+epoch=0,anchorsNum=6.0,test fooling rate=0.7770
+[ 16   0   0   0   0   0 143]
+[ 0 13  1  0  0  0 84]
+[  0   0  42   0   0   0 106]
+[  0   0   0  47   0   0 215]
+[  0   0   0   1  34   0 138]
+[ 0  0  0  0  0  7 89]
+[ 0  0  0  0  0  0 64]
+
+simple dp fail ! try again !
+epoch=1,continuousFlip=81.6693,train fooling rate=0.6929
+epoch=1,anchorsNum=6.0000,val fooling rate=0.7440
+epoch=1,anchorsNum=6.0,train fooling rate=0.5143
+[ 6  0  0  0  0  0 14]
+[ 0 11  0  0  0  0  9]
+[ 0  0  7  0  0  0 13]
+[ 0  0  0  8  0  0 12]
+[ 0  0  0  0 14  0  6]
+[ 0  0  0  0  0  2 18]
+[ 0  0  0  0  0  0 20]
+
+epoch=1,anchorsNum=6.0,test fooling rate=0.7540
+[ 19   0   0   0   0   0 140]
+[ 0 14  1  0  0  0 83]
+[  0   0  46   0   0   0 102]
+[  0   0   0  59   0   0 203]
+[  0   0   0   2  37   0 134]
+[ 0  0  0  0  0  7 89]
+[ 0  0  0  0  0  0 64]
+
+simple dp fail ! try again !
+epoch=2,continuousFlip=141.4032,train fooling rate=0.7571
+epoch=2,anchorsNum=6.0000,val fooling rate=0.8360
+epoch=2,anchorsNum=6.0,train fooling rate=0.8214
+[20  0  0  0  0  0  0]
+[19  1  0  0  0  0  0]
+[17  0  3  0  0  0  0]
+[20  0  0  0  0  0  0]
+[19  0  0  0  1  0  0]
+[20  0  0  0  0  0  0]
+[20  0  0  0  0  0  0]
+
+epoch=2,anchorsNum=6.0,test fooling rate=0.8210
+[159   0   0   0   0   0   0]
+[96  2  0  0  0  0  0]
+[142   0   6   0   0   0   0]
+[257   0   0   5   0   0   0]
+[167   0   0   0   6   0   0]
+[95  0  0  0  0  1  0]
+[64  0  0  0  0  0  0]
+
+epoch=3,continuousFlip=141.7596,train fooling rate=0.7214
+epoch=3,anchorsNum=6.0000,val fooling rate=0.8300
+epoch=3,anchorsNum=6.0,train fooling rate=0.8000
+[20  0  0  0  0  0  0]
+[17  3  0  0  0  0  0]
+[17  0  3  0  0  0  0]
+[20  0  0  0  0  0  0]
+[18  0  0  0  2  0  0]
+[20  0  0  0  0  0  0]
+[20  0  0  0  0  0  0]
+
+epoch=3,anchorsNum=6.0,test fooling rate=0.8130
+[159   0   0   0   0   0   0]
+[96  2  0  0  0  0  0]
+[138   0  10   0   0   0   0]
+[255   0   0   7   0   0   0]
+[166   0   0   0   7   0   0]
+[94  0  0  0  0  2  0]
+[64  0  0  0  0  0  0]
+
+epoch=4,continuousFlip=67.7393,train fooling rate=0.6571
+epoch=4,anchorsNum=6.0000,val fooling rate=0.7380
+epoch=4,anchorsNum=6.0,train fooling rate=0.4714
+[ 9  0  0  0  0  0 11]
+[ 0 11  0  0  0  0  9]
+[ 0  0  7  0  0  0 13]
+[ 0  0  0 10  0  0 10]
+[ 0  0  0  0 14  0  6]
+[ 0  0  0  0  0  3 17]
+[ 0  0  0  0  0  0 20]
+
+epoch=4,anchorsNum=6.0,test fooling rate=0.7400
+[ 30   0   0   0   0   0 129]
+[ 0 14  1  0  0  0 83]
+[  0   0  47   0   0   0 101]
+[  0   0   0  61   0   0 201]
+[  1   0   0   2  36   0 134]
+[ 0  0  0  0  0  8 88]
+[ 0  0  0  0  0  0 64]
+
+target:6
+simple dp fail ! try again !
+epoch=0,continuousFlip=153.6059,train fooling rate=0.8500
+epoch=0,anchorsNum=6.0000,val fooling rate=0.8280
+epoch=0,anchorsNum=6.0,train fooling rate=0.6714
+[ 2  0  0  0  0  0 18]
+[ 0  9  0  0  0  0 11]
+[ 0  0  4  0  0  0 16]
+[ 0  0  0  2  0  0 18]
+[ 0  0  0  0  9  0 11]
+[ 0  0  0  0  0  0 20]
+[ 0  0  0  0  0  0 20]
+
+epoch=0,anchorsNum=6.0,test fooling rate=0.8340
+[  1   0   0   0   0   0 121]
+[ 0 13  0  0  0  0 94]
+[  0   0  28   0   0   0 108]
+[  0   0   0  19   0   0 273]
+[  0   0   0   0  18   0 145]
+[ 0  0  0  0  0  2 93]
+[ 0  0  0  0  0  0 85]
+
+epoch=1,continuousFlip=181.3586,train fooling rate=0.8000
+epoch=1,anchorsNum=6.0000,val fooling rate=0.8520
+epoch=1,anchorsNum=6.0,train fooling rate=0.6929
+[ 2  0  0  0  0  0 18]
+[ 0  8  0  0  0  0 12]
+[ 0  0  4  0  0  0 16]
+[ 0  0  0  2  0  0 18]
+[ 0  0  0  0  7  0 13]
+[ 0  0  0  0  0  0 20]
+[ 0  0  0  0  0  0 20]
+
+epoch=1,anchorsNum=6.0,test fooling rate=0.8400
+[  1   0   0   0   0   0 121]
+[ 0 11  0  0  0  0 96]
+[  0   0  23   0   0   0 113]
+[  0   0   0  20   0   0 272]
+[  0   0   0   0  16   0 147]
+[ 0  0  0  0  0  4 91]
+[ 0  0  0  0  0  0 85]
+
+epoch=2,continuousFlip=219.6691,train fooling rate=0.8571
+epoch=2,anchorsNum=6.0000,val fooling rate=0.8280
+epoch=2,anchorsNum=6.0,train fooling rate=0.6714
+[ 2  0  0  0  0  0 18]
+[ 0  9  0  0  0  0 11]
+[ 0  0  4  0  0  0 16]
+[ 0  0  0  2  0  0 18]
+[ 0  0  0  0  9  0 11]
+[ 0  0  0  0  0  0 20]
+[ 0  0  0  0  0  0 20]
+
+epoch=2,anchorsNum=6.0,test fooling rate=0.8340
+[  1   0   0   0   0   0 121]
+[ 0 13  0  0  0  0 94]
+[  0   0  28   0   0   0 108]
+[  0   0   0  19   0   0 273]
+[  0   0   0   0  18   0 145]
+[ 0  0  0  0  0  2 93]
+[ 0  0  0  0  0  0 85]
+
+epoch=3,continuousFlip=140.9234,train fooling rate=0.8429
+epoch=3,anchorsNum=6.0000,val fooling rate=0.8440
+epoch=3,anchorsNum=6.0,train fooling rate=0.6714
+[ 2  0  0  0  0  0 18]
+[ 0  7  0  0  0  0 13]
+[ 0  0  4  0  0  0 16]
+[ 0  0  0  4  0  0 16]
+[ 0  0  0  0  8  0 12]
+[ 0  0  0  0  0  1 19]
+[ 0  0  0  0  0  0 20]
+
+epoch=3,anchorsNum=6.0,test fooling rate=0.8310
+[  1   0   0   0   0   0 121]
+[ 0 11  0  0  0  0 96]
+[  0   0  23   0   0   0 113]
+[  0   0   0  28   0   0 264]
+[  0   0   0   0  17   0 146]
+[ 0  0  0  0  0  4 91]
+[ 0  0  0  0  0  0 85]
+
+epoch=4,continuousFlip=103.4396,train fooling rate=0.8429
+epoch=4,anchorsNum=6.0000,val fooling rate=0.8220
+epoch=4,anchorsNum=6.0,train fooling rate=0.6357
+[ 3  0  0  0  0  0 17]
+[ 0  8  0  0  0  0 12]
+[ 0  0  4  0  0  0 16]
+[ 0  0  0  6  0  0 14]
+[ 0  0  0  0  9  0 11]
+[ 0  0  0  0  0  1 19]
+[ 0  0  0  0  0  0 20]
+
+epoch=4,anchorsNum=6.0,test fooling rate=0.8140
+[  1   0   0   0   0   0 121]
+[ 0 11  0  0  0  0 96]
+[  0   0  25   0   0   0 111]
+[  0   0   0  35   0   0 257]
+[  0   0   0   1  23   0 139]
+[ 0  0  0  0  0  6 89]
+[ 0  0  0  0  0  0 85]
+
+target:6
+simple dp fail ! try again !
+epoch=0,continuousFlip=116.2964,train fooling rate=0.6929
+epoch=0,anchorsNum=6.0000,val fooling rate=0.7380
+epoch=0,anchorsNum=6.0,train fooling rate=0.4714
+[ 7  0  0  0  0  0 13]
+[ 0 12  0  0  0  0  8]
+[ 0  0  6  0  0  0 14]
+[ 0  0  0 11  0  0  9]
+[ 0  0  0  0 14  0  6]
+[ 0  0  0  0  0  4 16]
+[ 0  0  0  0  0  0 20]
+
+epoch=0,anchorsNum=6.0,test fooling rate=0.7320
+[ 16   0   0   1   0   0 145]
+[ 0 20  0  0  0  0 78]
+[  0   0  41   0   0   0 104]
+[  0   0   0  68   0   0 205]
+[  0   0   0   0  45   0 116]
+[ 0  0  0  0  0 12 83]
+[ 0  0  0  0  0  0 66]
+
+simple dp fail ! try again !
+epoch=1,continuousFlip=109.8039,train fooling rate=0.3143
+epoch=1,anchorsNum=6.0000,val fooling rate=0.7080
+epoch=1,anchorsNum=6.0,train fooling rate=0.4714
+[ 7  0  0  0  0  0 13]
+[ 0 13  0  0  0  0  7]
+[ 0  0  5  0  0  0 15]
+[ 0  0  0 12  0  0  8]
+[ 0  0  0  0 14  0  6]
+[ 0  0  0  0  0  3 17]
+[ 0  0  0  0  0  0 20]
+
+epoch=1,anchorsNum=6.0,test fooling rate=0.7210
+[ 17   0   0   1   0   0 144]
+[ 0 20  0  0  0  0 78]
+[  0   0  41   0   0   0 104]
+[  0   0   0  78   0   0 195]
+[  0   0   0   0  45   0 116]
+[ 0  0  0  0  0 12 83]
+[ 0  0  0  0  0  0 66]
+
+epoch=2,continuousFlip=132.4506,train fooling rate=0.3000
+epoch=2,anchorsNum=6.0000,val fooling rate=0.7320
+epoch=2,anchorsNum=6.0,train fooling rate=0.4714
+[ 8  0  0  0  0  0 12]
+[ 0 12  0  0  0  0  8]
+[ 0  0  6  0  0  0 14]
+[ 0  0  0 11  0  0  9]
+[ 0  0  0  0 14  0  6]
+[ 0  0  0  0  0  3 17]
+[ 0  0  0  0  0  0 20]
+
+epoch=2,anchorsNum=6.0,test fooling rate=0.7240
+[ 22   0   0   0   0   0 140]
+[ 0 20  0  0  0  0 78]
+[  0   0  43   0   0   0 102]
+[  0   0   0  68   0   0 205]
+[  0   0   0   0  45   0 116]
+[ 0  0  0  0  0 12 83]
+[ 0  0  0  0  0  0 66]
+
+simple dp fail ! try again !
+simple dp fail ! try again !
+simple dp fail ! try again !
+simple dp fail ! try again !
+simple dp fail ! try again !
+epoch=3,continuousFlip=64.5389,train fooling rate=0.5857
+epoch=3,anchorsNum=6.0000,val fooling rate=0.7320
+epoch=3,anchorsNum=6.0,train fooling rate=0.4429
+[ 9  0  0  0  0  0 11]
+[ 0 12  0  0  0  0  8]
+[ 0  0  7  0  0  0 13]
+[ 0  0  0 11  0  0  9]
+[ 0  0  0  0 14  0  6]
+[ 0  0  0  0  0  5 15]
+[ 0  0  0  0  0  0 20]
+
+epoch=3,anchorsNum=6.0,test fooling rate=0.7240
+[ 21   0   0   0   0   0 141]
+[ 0 19  0  0  0  0 79]
+[ 0  0 47  0  0  0 98]
+[  0   0   0  67   1   0 205]
+[  0   0   0   0  43   0 118]
+[ 0  0  0  0  0 13 82]
+[ 0  0  0  0  0  0 66]
+
+epoch=4,continuousFlip=53.8970,train fooling rate=0.6571
+epoch=4,anchorsNum=6.0000,val fooling rate=0.6900
+epoch=4,anchorsNum=6.0,train fooling rate=0.4000
+[11  0  0  0  0  0  9]
+[ 0 12  0  0  0  0  8]
+[ 0  0  7  0  0  0 13]
+[ 0  0  0 13  0  0  7]
+[ 0  0  0  0 14  0  6]
+[ 0  0  0  0  0  7 13]
+[ 0  0  0  0  0  0 20]
+
+epoch=4,anchorsNum=6.0,test fooling rate=0.6940
+[ 36   0   0   0   0   0 126]
+[ 0 20  0  0  0  0 78]
+[  0   0  43   0   0   0 102]
+[  0   0   0  80   0   0 193]
+[  1   0   0   2  47   0 111]
+[ 0  0  0  0  0 14 81]
+[ 0  0  0  0  0  0 66]
+
+target:6
+epoch=0,continuousFlip=113.1961,train fooling rate=0.7000
+epoch=0,anchorsNum=6.0000,val fooling rate=0.6960
+epoch=0,anchorsNum=6.0,train fooling rate=0.4714
+[20  0  0  0  0  0  0]
+[ 5 15  0  0  0  0  0]
+[12  0  8  0  0  0  0]
+[15  0  0  5  0  0  0]
+[13  0  0  0  7  0  0]
+[12  0  0  0  0  8  0]
+[ 9  0  0  0  0  0 11]
+
+epoch=0,anchorsNum=6.0,test fooling rate=0.6720
+[170   0   0   0   0   0   0]
+[80 25  0  0  0  0  0]
+[93  2 53  0  0  0  0]
+[231   0   0  22   0   0   0]
+[145   0   0   0  17   0   0]
+[76  0  0  0  0 25  0]
+[45  0  0  0  0  0 16]
+
+epoch=1,continuousFlip=62.5792,train fooling rate=0.6786
+epoch=1,anchorsNum=6.0000,val fooling rate=0.7600
+epoch=1,anchorsNum=6.0,train fooling rate=0.4929
+[ 6  0  0  0  0  0 14]
+[ 0 15  0  0  0  0  5]
+[ 0  0  9  0  0  0 11]
+[ 0  0  0  6  0  0 14]
+[ 0  0  0  0 10  0 10]
+[ 0  0  0  0  0  5 15]
+[ 0  0  0  0  0  0 20]
+
+epoch=1,anchorsNum=6.0,test fooling rate=0.7570
+[ 16   0   0   0   0   0 154]
+[ 0 29  0  0  0  0 76]
+[ 0  1 53  0  0  0 94]
+[  0   0   0  33   0   0 220]
+[  0   0   0   0  37   0 125]
+[ 0  0  0  0  0 14 87]
+[ 0  0  0  0  0  0 61]
+
+simple dp fail ! try again !
+simple dp fail ! try again !
+epoch=2,continuousFlip=49.2338,train fooling rate=0.7357
+epoch=2,anchorsNum=6.0000,val fooling rate=0.7600
+epoch=2,anchorsNum=6.0,train fooling rate=0.4929
+[ 6  0  0  0  0  0 14]
+[ 0 15  0  0  0  0  5]
+[ 0  0  7  0  0  0 13]
+[ 0  0  0  6  0  0 14]
+[ 0  0  0  0 10  0 10]
+[ 0  0  0  0  0  7 13]
+[ 0  0  0  0  0  0 20]
+
+epoch=2,anchorsNum=6.0,test fooling rate=0.7630
+[ 16   0   0   0   0   0 154]
+[ 0 23  0  0  0  0 82]
+[ 0  1 50  0  0  0 97]
+[  0   0   0  34   0   0 219]
+[  0   0   0   0  36   0 126]
+[ 0  0  0  0  0 17 84]
+[ 0  0  0  0  0  0 61]
+
+simple dp fail ! try again !
+epoch=3,continuousFlip=88.6905,train fooling rate=0.5857
+epoch=3,anchorsNum=6.0000,val fooling rate=0.7020
+epoch=3,anchorsNum=6.0,train fooling rate=0.5357
+[ 8  0 12  0  0  0  0]
+[ 0 16  4  0  0  0  0]
+[ 0  0 20  0  0  0  0]
+[ 0  0 19  1  0  0  0]
+[ 0  0 13  0  7  0  0]
+[ 0  1 17  0  0  2  0]
+[ 0  0  9  0  0  0 11]
+
+epoch=3,anchorsNum=6.0,test fooling rate=0.7420
+[ 17   0 151   0   0   0   2]
+[ 0 45 60  0  0  0  0]
+[  0   0 148   0   0   0   0]
+[  0   0 246   7   0   0   0]
+[  0   0 145   0  17   0   0]
+[ 0  2 90  0  0  8  1]
+[ 0  0 45  0  0  0 16]
+
+epoch=4,continuousFlip=113.7277,train fooling rate=0.6643
+epoch=4,anchorsNum=6.0000,val fooling rate=0.7500
+epoch=4,anchorsNum=6.0,train fooling rate=0.4857
+[ 7  0  0  0  0  0 13]
+[ 0 16  0  0  0  0  4]
+[ 0  0  6  0  0  0 14]
+[ 0  0  0  6  0  0 14]
+[ 0  0  0  0 10  0 10]
+[ 0  0  0  0  0  7 13]
+[ 0  0  0  0  0  0 20]
+
+epoch=4,anchorsNum=6.0,test fooling rate=0.7510
+[ 23   0   0   0   0   0 147]
+[ 0 37  0  0  0  0 68]
+[  0   2  41   0   0   0 105]
+[  0   2   0  36   0   0 215]
+[  2   0   0   1  33   0 126]
+[ 0  0  0  0  0 18 83]
+[ 0  0  0  0  0  0 61]
+
+target:6
+simple dp fail ! try again !
+epoch=0,continuousFlip=40.8107,train fooling rate=0.5071
+epoch=0,anchorsNum=6.0000,val fooling rate=0.7220
+epoch=0,anchorsNum=6.0,train fooling rate=0.4071
+[ 9  0  0  0  0  0 11]
+[ 0 16  0  0  0  0  4]
+[ 0  0 10  0  0  0 10]
+[ 0  0  0  6  0  0 14]
+[ 0  0  0  0 12  0  8]
+[ 0  0  0  0  0 10 10]
+[ 0  0  0  0  0  0 20]
+
+epoch=0,anchorsNum=6.0,test fooling rate=0.7220
+[ 25   0   0   0   0   0 134]
+[ 0 32  0  0  0  0 67]
+[ 0  0 56  0  0  0 89]
+[  0   0   0  38   0   0 227]
+[  1   0   0   0  34   0 134]
+[ 0  0  0  0  0 24 70]
+[ 0  0  0  0  0  0 69]
+
+epoch=1,continuousFlip=86.8636,train fooling rate=0.7143
+epoch=1,anchorsNum=6.0000,val fooling rate=0.7640
+epoch=1,anchorsNum=6.0,train fooling rate=0.5286
+[ 6  0  0  0  0  0 14]
+[ 0 13  0  0  0  0  7]
+[ 0  0  6  0  0  0 14]
+[ 0  0  0  5  0  0 15]
+[ 0  0  0  0 10  0 10]
+[ 0  0  0  0  0  6 14]
+[ 0  0  0  0  0  0 20]
+
+epoch=1,anchorsNum=6.0,test fooling rate=0.7690
+[ 16   0   0   0   0   0 143]
+[ 0 20  0  0  0  0 79]
+[ 0  0 46  0  0  0 99]
+[  0   0   0  33   0   0 232]
+[  0   0   0   0  34   0 135]
+[ 0  0  0  0  0 13 81]
+[ 0  0  0  0  0  0 69]
+
+epoch=2,continuousFlip=196.9861,train fooling rate=0.5714
+epoch=2,anchorsNum=6.0000,val fooling rate=0.7520
+epoch=2,anchorsNum=6.0,train fooling rate=0.5071
+[ 6  0  0  0  0  0 14]
+[ 0 14  0  0  0  0  6]
+[ 0  0  6  0  0  0 14]
+[ 0  0  0  5  0  0 15]
+[ 0  0  0  0 11  0  9]
+[ 0  0  0  0  0  7 13]
+[ 0  0  0  0  0  0 20]
+
+epoch=2,anchorsNum=6.0,test fooling rate=0.7630
+[ 12   0   0   0   0   0 147]
+[ 0 26  0  0  0  0 73]
+[ 0  1 45  0  0  0 99]
+[  0   0   0  33   0   0 232]
+[  0   0   0   0  36   0 133]
+[ 0  0  0  0  0 16 78]
+[ 0  0  0  0  0  0 69]
+
+epoch=3,continuousFlip=77.8586,train fooling rate=0.7857
+epoch=3,anchorsNum=6.0000,val fooling rate=0.7460
+epoch=3,anchorsNum=6.0,train fooling rate=0.5214
+[ 6  0  0  0  0  0 14]
+[ 0 12  0  0  0  0  8]
+[ 0  0  6  0  0  0 14]
+[ 0  0  0  6  0  0 14]
+[ 0  0  0  0 10  0 10]
+[ 0  0  0  0  0  7 13]
+[ 0  0  0  0  0  0 20]
+
+epoch=3,anchorsNum=6.0,test fooling rate=0.7580
+[ 20   0   0   0   0   0 139]
+[ 0 20  0  0  0  0 79]
+[ 0  0 48  0  0  0 97]
+[  0   0   0  36   0   0 229]
+[  0   0   0   0  34   0 135]
+[ 0  0  0  0  0 15 79]
+[ 0  0  0  0  0  0 69]
+
+epoch=4,continuousFlip=99.4645,train fooling rate=0.6929
+epoch=4,anchorsNum=6.0000,val fooling rate=0.7640
+epoch=4,anchorsNum=6.0,train fooling rate=0.5286
+[ 6  0  0  0  0  0 14]
+[ 0 13  0  0  0  0  7]
+[ 0  0  6  0  0  0 14]
+[ 0  0  0  5  0  0 15]
+[ 0  0  0  0 10  0 10]
+[ 0  0  0  0  0  6 14]
+[ 0  0  0  0  0  0 20]
+
+epoch=4,anchorsNum=6.0,test fooling rate=0.7700
+[ 12   0   0   0   0   0 147]
+[ 0 21  0  0  0  0 78]
+[ 0  0 47  0  0  0 98]
+[  0   0   0  33   0   0 232]
+[  0   0   0   0  35   0 134]
+[ 0  0  0  0  0 13 81]
+[ 0  0  0  0  0  0 69]
+
+target:6
+epoch=0,continuousFlip=83.5121,train fooling rate=0.6857
+epoch=0,anchorsNum=6.0000,val fooling rate=0.7540
+epoch=0,anchorsNum=6.0,train fooling rate=0.4929
+[ 6  0  0  0  0  0 14]
+[ 0 16  0  0  0  0  4]
+[ 0  0 10  0  0  0 10]
+[ 0  0  0  3  0  0 17]
+[ 0  0  0  0 10  0 10]
+[ 0  0  0  0  0  6 14]
+[ 0  0  0  0  0  0 20]
+
+epoch=0,anchorsNum=6.0,test fooling rate=0.7500
+[ 12   0   0   0   0   0 140]
+[ 0 30  0  0  0  0 75]
+[ 0  1 57  0  0  0 87]
+[  0   0   0  26   0   0 231]
+[  0   0   0   0  31   0 131]
+[ 0  0  0  0  0 15 85]
+[ 0  0  0  0  0  0 79]
+
+epoch=1,continuousFlip=51.3887,train fooling rate=0.7214
+epoch=1,anchorsNum=6.0000,val fooling rate=0.7520
+epoch=1,anchorsNum=6.0,train fooling rate=0.4786
+[ 6  0  0  0  0  0 14]
+[ 0 16  0  0  0  0  4]
+[ 0  0 10  0  0  0 10]
+[ 0  0  0  3  0  0 17]
+[ 0  0  0  0 12  0  8]
+[ 0  0  0  0  0  6 14]
+[ 0  0  0  0  0  0 20]
+
+epoch=1,anchorsNum=6.0,test fooling rate=0.7480
+[ 14   0   0   0   0   0 138]
+[ 0 29  0  0  0  0 76]
+[ 0  1 56  0  0  0 88]
+[  0   0   0  26   0   0 231]
+[  0   0   0   0  33   0 129]
+[ 0  0  0  0  0 15 85]
+[ 0  0  0  0  0  0 79]
+
+epoch=2,continuousFlip=88.2940,train fooling rate=0.7000
+epoch=2,anchorsNum=6.0000,val fooling rate=0.7680
+epoch=2,anchorsNum=6.0,train fooling rate=0.5357
+[ 6  0  0  0  0  0 14]
+[ 0 14  0  0  0  0  6]
+[ 0  0  7  0  0  0 13]
+[ 0  0  0  3  0  0 17]
+[ 0  0  0  0 10  0 10]
+[ 0  0  0  0  0  5 15]
+[ 0  0  0  0  0  0 20]
+
+epoch=2,anchorsNum=6.0,test fooling rate=0.7700
+[ 11   0   0   0   0   0 141]
+[ 0 24  0  0  0  0 81]
+[ 0  1 47  0  0  0 97]
+[  0   0   0  24   0   0 233]
+[  0   0   0   0  32   0 130]
+[ 0  0  0  0  0 13 87]
+[ 0  0  0  0  0  0 79]
+
+epoch=3,continuousFlip=119.2522,train fooling rate=0.6143
+epoch=3,anchorsNum=6.0000,val fooling rate=0.7680
+epoch=3,anchorsNum=6.0,train fooling rate=0.5286
+[ 6  0  0  0  0  0 14]
+[ 0 14  0  0  0  0  6]
+[ 0  0  8  0  0  0 12]
+[ 0  0  0  3  0  0 17]
+[ 0  0  0  0 10  0 10]
+[ 0  0  0  0  0  5 15]
+[ 0  0  0  0  0  0 20]
+
+epoch=3,anchorsNum=6.0,test fooling rate=0.7700
+[ 11   0   0   0   0   0 141]
+[ 0 24  0  0  0  0 81]
+[ 0  1 47  0  0  0 97]
+[  0   0   0  24   0   0 233]
+[  0   0   0   0  32   0 130]
+[ 0  0  0  0  0 13 87]
+[ 0  0  0  0  0  0 79]
+
+epoch=4,continuousFlip=112.6842,train fooling rate=0.7000
+epoch=4,anchorsNum=6.0000,val fooling rate=0.7680
+epoch=4,anchorsNum=6.0,train fooling rate=0.5143
+[ 6  0  0  0  0  0 14]
+[ 0 15  0  0  0  0  5]
+[ 0  0  8  0  0  0 12]
+[ 0  0  0  3  0  0 17]
+[ 0  0  0  0 10  0 10]
+[ 0  0  0  0  0  6 14]
+[ 0  0  0  0  0  0 20]
+
+epoch=4,anchorsNum=6.0,test fooling rate=0.7660
+[ 11   0   0   0   0   0 141]
+[ 0 27  0  0  0  0 78]
+[ 0  1 47  0  0  0 97]
+[  0   0   0  24   0   0 233]
+[  0   0   0   0  33   0 129]
+[ 0  0  0  0  0 13 87]
+[ 0  0  0  0  0  0 79]
+
+target:6
+epoch=0,continuousFlip=120.4519,train fooling rate=0.8286
+epoch=0,anchorsNum=6.0000,val fooling rate=0.8360
+epoch=0,anchorsNum=6.0,train fooling rate=0.8286
+[20  0  0  0  0  0  0]
+[17  3  0  0  0  0  0]
+[20  0  0  0  0  0  0]
+[20  0  0  0  0  0  0]
+[19  0  0  0  1  0  0]
+[20  0  0  0  0  0  0]
+[20  0  0  0  0  0  0]
+
+epoch=0,anchorsNum=6.0,test fooling rate=0.8200
+[161   0   0   0   0   0   0]
+[97  3  0  0  0  0  0]
+[136   0   5   0   0   0   0]
+[259   0   0   4   0   0   0]
+[168   0   0   0   6   0   0]
+[85  0  0  0  0  1  0]
+[75  0  0  0  0  0  0]
+
+epoch=1,continuousFlip=96.3891,train fooling rate=0.6857
+epoch=1,anchorsNum=6.0000,val fooling rate=0.7360
+epoch=1,anchorsNum=6.0,train fooling rate=0.5643
+[ 6  0  0  0  0  0 14]
+[ 0 11  0  0  0  0  9]
+[ 0  0  5  0  0  0 15]
+[ 0  0  0  5  0  0 15]
+[ 0  0  0  0 12  0  8]
+[ 0  0  0  0  0  2 18]
+[ 0  0  0  0  0  0 20]
+
+epoch=1,anchorsNum=6.0,test fooling rate=0.7780
+[ 14   0   0   0   0   0 147]
+[ 0 21  0  0  0  0 79]
+[  0   2  37   0   0   0 102]
+[  0   0   0  32   0   0 231]
+[  0   0   0   0  36   0 138]
+[ 0  0  0  0  0  7 79]
+[ 0  0  0  0  0  0 75]
+
+simple dp fail ! try again !
+epoch=2,continuousFlip=82.4013,train fooling rate=0.5929
+epoch=2,anchorsNum=6.0000,val fooling rate=0.6720
+epoch=2,anchorsNum=6.0,train fooling rate=0.3571
+[19  0  0  0  0  0  1]
+[ 1 19  0  0  0  0  0]
+[14  0  5  0  0  0  1]
+[13  0  0  7  0  0  0]
+[ 9  0  0  0 11  0  0]
+[11  0  0  0  0  9  0]
+[ 0  0  0  0  0  0 20]
+
+epoch=2,anchorsNum=6.0,test fooling rate=0.6420
+[160   0   0   0   0   0   1]
+[52 47  0  0  0  0  1]
+[91  8 33  0  0  0  9]
+[225   0   0  33   0   0   5]
+[145   0   0   0  27   0   2]
+[64  0  0  0  0 18  4]
+[35  0  0  0  0  0 40]
+
+epoch=3,continuousFlip=104.8608,train fooling rate=0.6714
+epoch=3,anchorsNum=6.0000,val fooling rate=0.7360
+epoch=3,anchorsNum=6.0,train fooling rate=0.5643
+[ 6  0  0  0  0  0 14]
+[ 0 11  0  0  0  0  9]
+[ 0  0  5  0  0  0 15]
+[ 0  0  0  5  0  0 15]
+[ 0  0  0  0 12  0  8]
+[ 0  0  0  0  0  2 18]
+[ 0  0  0  0  0  0 20]
+
+epoch=3,anchorsNum=6.0,test fooling rate=0.7780
+[ 14   0   0   0   0   0 147]
+[ 0 21  0  0  0  0 79]
+[  0   2  37   0   0   0 102]
+[  0   0   0  32   0   0 231]
+[  0   0   0   0  36   0 138]
+[ 0  0  0  0  0  7 79]
+[ 0  0  0  0  0  0 75]
+
+simple dp fail ! try again !
+epoch=4,continuousFlip=87.0938,train fooling rate=0.6929
+epoch=4,anchorsNum=6.0000,val fooling rate=0.7220
+epoch=4,anchorsNum=6.0,train fooling rate=0.5143
+[ 7  0  0  0  0  0 13]
+[ 0 11  0  0  0  0  9]
+[ 0  0  5  0  0  0 15]
+[ 0  0  0  7  0  0 13]
+[ 0  0  0  0 13  0  7]
+[ 0  0  0  0  0  5 15]
+[ 0  0  0  0  0  0 20]
+
+epoch=4,anchorsNum=6.0,test fooling rate=0.7610
+[ 17   0   0   0   0   0 144]
+[ 0 17  0  0  0  0 83]
+[  0   1  38   0   0   0 102]
+[  0   0   0  37   0   0 226]
+[  0   0   0   0  43   0 131]
+[ 0  0  0  0  0 12 74]
+[ 0  0  0  0  0  0 75]
+

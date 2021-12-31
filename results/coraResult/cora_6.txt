@@ -1,0 +1,154 @@
+target:0
+epoch=0,continuousFlip=224.0191,train fooling rate=0.7571
+epoch=0,anchorsNum=6.0000,val fooling rate=0.8520
+epoch=0,anchorsNum=6.0,train fooling rate=0.8286
+epoch=0,anchorsNum=6.0,test fooling rate=0.8470
+epoch=1,continuousFlip=155.1827,train fooling rate=0.7500
+epoch=1,anchorsNum=6.0000,val fooling rate=0.8520
+epoch=1,anchorsNum=6.0,train fooling rate=0.8286
+epoch=1,anchorsNum=6.0,test fooling rate=0.8430
+epoch=2,continuousFlip=220.7698,train fooling rate=0.8571
+epoch=2,anchorsNum=6.0000,val fooling rate=0.8540
+epoch=2,anchorsNum=6.0,train fooling rate=0.8357
+epoch=2,anchorsNum=6.0,test fooling rate=0.8490
+epoch=3,continuousFlip=247.6127,train fooling rate=0.8571
+epoch=3,anchorsNum=6.0000,val fooling rate=0.8500
+epoch=3,anchorsNum=6.0,train fooling rate=0.8286
+epoch=3,anchorsNum=6.0,test fooling rate=0.8490
+epoch=4,continuousFlip=61.8860,train fooling rate=0.8571
+epoch=4,anchorsNum=6.0000,val fooling rate=0.8520
+epoch=4,anchorsNum=6.0,train fooling rate=0.8286
+epoch=4,anchorsNum=6.0,test fooling rate=0.8430
+target:0,best_epoch:2
+target:1
+epoch=0,continuousFlip=83.7376,train fooling rate=0.8286
+epoch=0,anchorsNum=6.0000,val fooling rate=0.8640
+epoch=0,anchorsNum=6.0,train fooling rate=0.7429
+epoch=0,anchorsNum=6.0,test fooling rate=0.8540
+epoch=1,continuousFlip=1299.7795,train fooling rate=0.8500
+epoch=1,anchorsNum=6.0000,val fooling rate=0.3480
+epoch=1,anchorsNum=6.0,train fooling rate=0.1214
+epoch=1,anchorsNum=6.0,test fooling rate=0.3400
+epoch=2,continuousFlip=93.8458,train fooling rate=0.8429
+epoch=2,anchorsNum=6.0000,val fooling rate=0.8600
+epoch=2,anchorsNum=6.0,train fooling rate=0.7286
+epoch=2,anchorsNum=6.0,test fooling rate=0.8520
+epoch=3,continuousFlip=103.1540,train fooling rate=0.8429
+epoch=3,anchorsNum=6.0000,val fooling rate=0.8660
+epoch=3,anchorsNum=6.0,train fooling rate=0.7357
+epoch=3,anchorsNum=6.0,test fooling rate=0.8580
+epoch=4,continuousFlip=157.0108,train fooling rate=0.8214
+epoch=4,anchorsNum=6.0000,val fooling rate=0.8280
+epoch=4,anchorsNum=6.0,train fooling rate=0.6714
+epoch=4,anchorsNum=6.0,test fooling rate=0.8160
+target:1,best_epoch:3
+target:2
+epoch=0,continuousFlip=127.7972,train fooling rate=0.8571
+epoch=0,anchorsNum=6.0000,val fooling rate=0.8140
+epoch=0,anchorsNum=6.0,train fooling rate=0.8286
+epoch=0,anchorsNum=6.0,test fooling rate=0.8450
+epoch=1,continuousFlip=167.1801,train fooling rate=0.8571
+epoch=1,anchorsNum=6.0000,val fooling rate=0.8140
+epoch=1,anchorsNum=6.0,train fooling rate=0.8286
+epoch=1,anchorsNum=6.0,test fooling rate=0.8450
+epoch=2,continuousFlip=157.5065,train fooling rate=0.8571
+epoch=2,anchorsNum=6.0000,val fooling rate=0.8140
+epoch=2,anchorsNum=6.0,train fooling rate=0.8286
+epoch=2,anchorsNum=6.0,test fooling rate=0.8450
+epoch=3,continuousFlip=159.9796,train fooling rate=0.8571
+epoch=3,anchorsNum=6.0000,val fooling rate=0.8140
+epoch=3,anchorsNum=6.0,train fooling rate=0.8286
+epoch=3,anchorsNum=6.0,test fooling rate=0.8450
+epoch=4,continuousFlip=395.7888,train fooling rate=0.8571
+epoch=4,anchorsNum=6.0000,val fooling rate=0.8140
+epoch=4,anchorsNum=6.0,train fooling rate=0.8286
+epoch=4,anchorsNum=6.0,test fooling rate=0.8430
+target:2,best_epoch:0
+target:3
+epoch=0,continuousFlip=345.4980,train fooling rate=0.8571
+epoch=0,anchorsNum=6.0000,val fooling rate=0.7440
+epoch=0,anchorsNum=6.0,train fooling rate=0.8143
+epoch=0,anchorsNum=6.0,test fooling rate=0.7120
+epoch=1,continuousFlip=226.2798,train fooling rate=0.8571
+epoch=1,anchorsNum=6.0000,val fooling rate=0.7460
+epoch=1,anchorsNum=6.0,train fooling rate=0.8214
+epoch=1,anchorsNum=6.0,test fooling rate=0.7140
+epoch=2,continuousFlip=125.6845,train fooling rate=0.8571
+epoch=2,anchorsNum=6.0000,val fooling rate=0.7460
+epoch=2,anchorsNum=6.0,train fooling rate=0.8214
+epoch=2,anchorsNum=6.0,test fooling rate=0.7140
+epoch=3,continuousFlip=220.0249,train fooling rate=0.8571
+epoch=3,anchorsNum=6.0000,val fooling rate=0.7480
+epoch=3,anchorsNum=6.0,train fooling rate=0.8214
+epoch=3,anchorsNum=6.0,test fooling rate=0.7140
+epoch=4,continuousFlip=236.1650,train fooling rate=0.8571
+epoch=4,anchorsNum=6.0000,val fooling rate=0.7440
+epoch=4,anchorsNum=6.0,train fooling rate=0.8143
+epoch=4,anchorsNum=6.0,test fooling rate=0.7120
+target:3,best_epoch:3
+target:4
+epoch=0,continuousFlip=204.9574,train fooling rate=0.8571
+epoch=0,anchorsNum=6.0000,val fooling rate=0.7980
+epoch=0,anchorsNum=6.0,train fooling rate=0.8357
+epoch=0,anchorsNum=6.0,test fooling rate=0.8270
+epoch=1,continuousFlip=207.2340,train fooling rate=0.8571
+epoch=1,anchorsNum=6.0000,val fooling rate=0.7980
+epoch=1,anchorsNum=6.0,train fooling rate=0.8357
+epoch=1,anchorsNum=6.0,test fooling rate=0.8270
+epoch=2,continuousFlip=291.5767,train fooling rate=0.8571
+epoch=2,anchorsNum=6.0000,val fooling rate=0.7980
+epoch=2,anchorsNum=6.0,train fooling rate=0.8357
+epoch=2,anchorsNum=6.0,test fooling rate=0.8270
+epoch=3,continuousFlip=333.0584,train fooling rate=0.8571
+epoch=3,anchorsNum=6.0000,val fooling rate=0.7980
+epoch=3,anchorsNum=6.0,train fooling rate=0.8357
+epoch=3,anchorsNum=6.0,test fooling rate=0.8270
+epoch=4,continuousFlip=248.5884,train fooling rate=0.8571
+epoch=4,anchorsNum=6.0000,val fooling rate=0.8000
+epoch=4,anchorsNum=6.0,train fooling rate=0.8357
+epoch=4,anchorsNum=6.0,test fooling rate=0.8280
+target:4,best_epoch:4
+target:5
+epoch=0,continuousFlip=120.4957,train fooling rate=0.8500
+epoch=0,anchorsNum=6.0000,val fooling rate=0.8320
+epoch=0,anchorsNum=6.0,train fooling rate=0.6714
+epoch=0,anchorsNum=6.0,test fooling rate=0.8360
+epoch=1,continuousFlip=123.6134,train fooling rate=0.8571
+epoch=1,anchorsNum=6.0000,val fooling rate=0.8340
+epoch=1,anchorsNum=6.0,train fooling rate=0.6500
+epoch=1,anchorsNum=6.0,test fooling rate=0.8370
+epoch=2,continuousFlip=153.2503,train fooling rate=0.8500
+epoch=2,anchorsNum=6.0000,val fooling rate=0.8420
+epoch=2,anchorsNum=6.0,train fooling rate=0.7071
+epoch=2,anchorsNum=6.0,test fooling rate=0.8440
+epoch=3,continuousFlip=88.3334,train fooling rate=0.7786
+epoch=3,anchorsNum=6.0000,val fooling rate=0.8300
+epoch=3,anchorsNum=6.0,train fooling rate=0.6500
+epoch=3,anchorsNum=6.0,test fooling rate=0.8330
+epoch=4,continuousFlip=226.7439,train fooling rate=0.7786
+epoch=4,anchorsNum=6.0000,val fooling rate=0.8400
+epoch=4,anchorsNum=6.0,train fooling rate=0.6643
+epoch=4,anchorsNum=6.0,test fooling rate=0.8440
+target:5,best_epoch:2
+target:6
+epoch=0,continuousFlip=165.7297,train fooling rate=0.8429
+epoch=0,anchorsNum=6.0000,val fooling rate=0.8860
+epoch=0,anchorsNum=6.0,train fooling rate=0.7714
+epoch=0,anchorsNum=6.0,test fooling rate=0.8860
+epoch=1,continuousFlip=392.9151,train fooling rate=0.8500
+epoch=1,anchorsNum=6.0000,val fooling rate=0.8800
+epoch=1,anchorsNum=6.0,train fooling rate=0.7429
+epoch=1,anchorsNum=6.0,test fooling rate=0.8760
+epoch=2,continuousFlip=125.0694,train fooling rate=0.8143
+epoch=2,anchorsNum=6.0000,val fooling rate=0.8860
+epoch=2,anchorsNum=6.0,train fooling rate=0.7714
+epoch=2,anchorsNum=6.0,test fooling rate=0.8860
+epoch=3,continuousFlip=156.4442,train fooling rate=0.8571
+epoch=3,anchorsNum=6.0000,val fooling rate=0.8860
+epoch=3,anchorsNum=6.0,train fooling rate=0.7714
+epoch=3,anchorsNum=6.0,test fooling rate=0.8860
+epoch=4,continuousFlip=219.4528,train fooling rate=0.8571
+epoch=4,anchorsNum=6.0000,val fooling rate=0.8860
+epoch=4,anchorsNum=6.0,train fooling rate=0.7714
+epoch=4,anchorsNum=6.0,test fooling rate=0.8860
+target:6,best_epoch:0
